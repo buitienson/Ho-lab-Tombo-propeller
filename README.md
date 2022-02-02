@@ -1,5 +1,5 @@
 # Tombo Probeller
 
 
-![Tombo drone](Fig 1 - Biomimetic idea colour.png)
+![Tombo drone](fig.png "Tombo drone")
 
